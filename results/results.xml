@@ -34354,3 +34354,938 @@ End of test
 	<system-err>
 <![CDATA[]]>	</system-err>
 </testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211005155535" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962140977955
+Navigation failed as actual is 0.0269512840105 and expected is 0.00848035270926
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211005161808" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962530894239
+Navigation failed as actual is 0.0271726734959 and expected is 0.00870118283875
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211005162417" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962400411418
+Navigation failed as actual is 0.0269457678806 and expected is 0.00847773726897
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211005163041" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962473101729
+Navigation failed as actual is 0.027073064719 and expected is 0.00860204027712
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211005164050" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962562539497
+Navigation failed as actual is 0.0272297954124 and expected is 0.00875730515025
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006035536" tests="1" time="0.000">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.000"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.963120441086
+Navigation failed as actual is 0.0273954960744 and expected is 0.00888440707944
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006040021" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962210301316
+Navigation failed as actual is 0.0270893354203 and expected is 0.00861702527165
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006042028" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962502450837
+Navigation failed as actual is 0.0270652827031 and expected is 0.00858584731726
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006044323" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962480480896
+Navigation failed as actual is 0.0270852472913 and expected is 0.00861778725834
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006044947" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962516554953
+Navigation failed as actual is 0.027047003096 and expected is 0.00856888880237
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006045639" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.959065396114
+Navigation failed as actual is 0 and expected is 0.00917277675124
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006050730" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962571601862
+Navigation failed as actual is 0.0271450544054 and expected is 0.00866207498915
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006051431" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962389246829
+Navigation failed as actual is 0.0271288004806 and expected is 0.00865337732218
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006053603" tests="1" time="0.000">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.000"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962540347012
+Navigation failed as actual is 0.0270893879067 and expected is 0.00860784505883
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006064751" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962511067016
+Navigation failed as actual is 0.0270811785258 and expected is 0.008599919109
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006065928" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962587914319
+Navigation failed as actual is 0.0272082735397 and expected is 0.00872872178162
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006123304" tests="1" time="0.003">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.003"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962587876964
+Navigation failed as actual is 0.0272109185115 and expected is 0.00873029476046
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006125948" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962450569844
+Navigation failed as actual is 0.0270333454479 and expected is 0.00856536097026
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006134534" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962520437749
+Navigation failed as actual is 0.0270573606352 and expected is 0.00857670858756
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006135531" tests="1" time="0.002">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.002"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 0.0 and expected is 0.000199833904835
+Navigated to axis y successfully
+Navigation successful as actual is 0 and expected is -0.0175896942726
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006135739" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962452922946
+Navigation failed as actual is 0.0270386713137 and expected is 0.00857097349655
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006141303" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 0.0 and expected is 0.000201248890304
+Navigated to axis y successfully
+Navigation successful as actual is 0 and expected is -0.0175873894376
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="TestStringMethods-20211006141509" tests="1" time="0.001">
+	<testcase classname="TestStringMethods" name="test_navigation" time="0.001"/>
+	<system-out>
+<![CDATA[setup run
+Start of test
+flagx 1 
+Navigated to axis x successfully
+Navigation successful as actual is 1.0 and expected is 0.962450658132
+Navigation failed as actual is 0.0270360794145 and expected is 0.00856778345718
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142712" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142712" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142713" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142713" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142714" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142715" tests="1" time="0.003">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.003"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142715" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142716" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142717" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142717" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142718" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142719" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142719" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142720" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142720" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142721" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142722" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142723" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142723" tests="1" time="0.001">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.001"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142724" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142725" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142726" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142727" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142727" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142728" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142729" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142729" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142730" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142730" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142731" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142732" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142732" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142733" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142734" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142734" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142735" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142736" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142736" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142737" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142738" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142738" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142739" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142740" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142740" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142741" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142742" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142742" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142743" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="testObstacle-20211006142744" tests="1" time="0.000">
+	<testcase classname="testObstacle" name="test_obstacleavoidance" time="0.000"/>
+	<system-out>
+<![CDATA[Running test setup function
+Start of test
+No obastcle yet
+End of test
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

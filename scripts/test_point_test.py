@@ -28,7 +28,7 @@ If you want to close, insert 's'
 #flagx = flagy = posx = posy = x_start = y_start = 0
 flagx = flagy = 0
 x_start = y_start = 0
-posx = posy= x1=y1 0
+posx = posy= x1=y1 = 0
 class GotoPoint():
     def gotogivenpoint(self):
 	global flagx, flagy, x_start, y_start, posx, posy,x1,y1
@@ -147,7 +147,8 @@ class GotoPoint():
         	#unittest.main(testRunner=xmlrunner.XMLTestRunner(output=output), buffer=False) 
 	#unittest.main()
 	del sys.argv[1:]
-        unittest.main()
+        with open('/home/meenakshi/catkin_ws/src/test_simulation/results/results.xml', 'a+') as output:
+        	unittest.main(testRunner=xmlrunner.XMLTestRunner(output=output), buffer=False)
 
     def getkey(self):
         #x, y, z = raw_input("| x | y | z |\n").split()
