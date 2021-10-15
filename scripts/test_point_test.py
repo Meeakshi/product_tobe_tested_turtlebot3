@@ -54,8 +54,8 @@ class GotoPoint():
 
         (position, rotation) = self.get_odom()
         last_rotation = 0
-        linear_speed = 0.2
-        angular_speed = 0.3
+        linear_speed = 0.5
+        angular_speed = 0.5
         (goal_x, goal_y, goal_z) = self.getkey()
         if goal_z > 180 or goal_z < -180:
             print("you input wrong z range.")
@@ -154,7 +154,7 @@ class GotoPoint():
         #x, y, z = raw_input("| x | y | z |\n").split()
 	params = sys.argv
 	a, x, y, z = params
-	print("Got args")
+	print("Got args from user {} {} {}" .format(x,y,z))
         if x == 's':
             self.shutdown()
         x, y, z = [float(x), float(y), float(z)]
